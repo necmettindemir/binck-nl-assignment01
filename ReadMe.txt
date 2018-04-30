@@ -58,7 +58,7 @@ So, the solution with regular expression is developed in Microsoft .NET 4.0 Win 
 About this Solution
 
 This soluiton consists of two projects
-- GUI project that is win app  (Prj01PostCodes)
+- GUI project that is win app  (Prj01PostCodes), SLN file is here.
 - Library project that is class library project (Prj01Lib)
 
 Library.cs is a library file of Prj01Lib ClassLibrary project .

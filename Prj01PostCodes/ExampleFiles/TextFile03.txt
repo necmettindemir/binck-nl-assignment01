@@ -1,0 +1,3 @@
+﻿Louis	Pasteur		Nigde		51332
+Thomas	Edison					Bursa
+Albert	Einstein	Eskisehir	26833

@@ -1,0 +1,3 @@
+﻿Lionel		Messi	01234	Adana
+Christiano	Ronaldo			Mersin
+Eden		Hazard	44544	Malatya

@@ -1,0 +1,10 @@
+E:\Projeler\Arge\NL\Binck\Prj01\Prj01PostCodes\bin\Debug\Prj01PostCodes.exe
+E:\Projeler\Arge\NL\Binck\Prj01\Prj01PostCodes\bin\Debug\Prj01PostCodes.pdb
+E:\Projeler\Arge\NL\Binck\Prj01\Prj01PostCodes\bin\Debug\Prj01Lib.dll
+E:\Projeler\Arge\NL\Binck\Prj01\Prj01PostCodes\bin\Debug\Prj01Lib.pdb
+E:\Projeler\Arge\NL\Binck\Prj01\Prj01PostCodes\obj\Debug\Prj01PostCodes.csprojResolveAssemblyReference.cache
+E:\Projeler\Arge\NL\Binck\Prj01\Prj01PostCodes\obj\Debug\Prj01PostCodes.MainFrm.resources
+E:\Projeler\Arge\NL\Binck\Prj01\Prj01PostCodes\obj\Debug\Prj01PostCodes.Properties.Resources.resources
+E:\Projeler\Arge\NL\Binck\Prj01\Prj01PostCodes\obj\Debug\Prj01PostCodes.csproj.GenerateResource.Cache
+E:\Projeler\Arge\NL\Binck\Prj01\Prj01PostCodes\obj\Debug\Prj01PostCodes.exe
+E:\Projeler\Arge\NL\Binck\Prj01\Prj01PostCodes\obj\Debug\Prj01PostCodes.pdb

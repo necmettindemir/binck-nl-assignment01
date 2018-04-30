@@ -1,0 +1,5 @@
+E:\Projeler\Arge\NL\Binck\Prj01\Prj01Lib\bin\Debug\Prj01Lib.dll
+E:\Projeler\Arge\NL\Binck\Prj01\Prj01Lib\bin\Debug\Prj01Lib.pdb
+E:\Projeler\Arge\NL\Binck\Prj01\Prj01Lib\obj\Debug\Prj01Lib.csprojResolveAssemblyReference.cache
+E:\Projeler\Arge\NL\Binck\Prj01\Prj01Lib\obj\Debug\Prj01Lib.dll
+E:\Projeler\Arge\NL\Binck\Prj01\Prj01Lib\obj\Debug\Prj01Lib.pdb
